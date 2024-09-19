@@ -1,4 +1,4 @@
-# Plantilla de Proyecto: React + TypeScript + Tailwind CSS + Yarn
+# plantilla_frontend
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge)
 
 Este documento proporciona una guía básica para configurar un proyecto de React con TypeScript y Tailwind CSS utilizando Yarn como gestor de paquetes.
